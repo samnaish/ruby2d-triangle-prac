@@ -1,5 +1,5 @@
-# ruby2d-triangle-prac
-
+# Ruby2d-triangle-prac
+A very simple project that contains just a malformed multi-coloured triangle built using a ruby franework called Ruby2d.
 
 # Dependency and install
 
